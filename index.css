@@ -99,7 +99,7 @@ body {
 
 .container {
     text-align: center;
-    width: 447px;
+    width: 377px;
     margin: 60px auto;
 }
 
@@ -117,13 +117,13 @@ img.avatar {
 
 .username {
     font-family: 'Roboto', monospace;
-    font-weight: 240;
+    font-weight: 400;
     opacity: 0.8;
     font-size: 18px;
 }
 
 .about {
-    margin: 40px 0;
+    margin: 20px 0;
     display: flex;
     font-size: 16px;
 }
