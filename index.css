@@ -99,7 +99,7 @@ body {
 
 .container {
     text-align: center;
-    width: 300px;
+    width: 447px;
     margin: 60px auto;
 }
 
@@ -122,17 +122,15 @@ img.avatar {
     font-size: 18px;
 }
 
-.info {
-    height: 70px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 14px;
+.about {
+    margin: 20px 0;
+    display: flex;s
+    font-size: 16px;
 }
 
 ul {
     list-style: none;
-    margin: 48px 0;
+    margin: 15px 0;
 }
 
 ul li a {
