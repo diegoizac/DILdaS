@@ -117,14 +117,14 @@ img.avatar {
 
 .username {
     font-family: 'Roboto', monospace;
-    font-weight: 400;
+    font-weight: 350;
     opacity: 0.8;
     font-size: 18px;
 }
 
 .about {
-    margin: 20px 0;
-    display: flex;s
+    margin: 40px 0;
+    display: flex;
     font-size: 16px;
 }
 
