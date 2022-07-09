@@ -18,6 +18,33 @@ html {
     --text-color-footer: #00082F;
 }
 
+body.green {
+    --bg-color: #E5E5E5;
+    --text-color: #1F000B;
+    --text-color-button:#FFFFFF;
+    --primary-color: #74d633;
+    --primary-color-dark: #4f8c0b;
+    --text-color-footer: #1F000B;
+}
+
+body.blue {
+    --bg-color: #E5E5E5;
+    --text-color: #ec260a;
+    --text-color-button: #fda605;
+    --primary-color:#4263EB ;
+    --primary-color-dark:#364FC7 ;
+    --text-color-footer: #00082F;
+}
+
+body.gray {
+    --bg-color: #E5E5E5;
+    --text-color: #ec260a;
+    --text-color-button: #fda605;
+    --primary-color: #575555;
+    --primary-color-dark: #000000;
+    --text-color-footer: #ff0000;
+}
+
 body.pink {
     --bg-color: #E5E5E5;
     --text-color: #1F000B;
@@ -25,6 +52,15 @@ body.pink {
     --primary-color: #D6336C;
     --primary-color-dark: #A61E4D;
     --text-color-footer: #1F000B;
+}
+
+body.dark {
+    --bg-color: #313131;
+    --text-color: #EDF2FF;
+    --text-color-button:#FFFFFF;
+    --primary-color: #606060FF;
+    --primary-color-dark: #000000;
+    --text-color-footer: #FEFEFE;
 }
 
 body.dark-blue {
@@ -35,6 +71,7 @@ body.dark-blue {
     --primary-color-dark:#364FC7 ;
     --text-color-footer: #FEFEFE;
 }
+
 body.dark-pink {
     --bg-color: #1F000B;
     --text-color: #FFFFFF;
